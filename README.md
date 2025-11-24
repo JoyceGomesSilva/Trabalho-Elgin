@@ -126,8 +126,4 @@ aprendizado sobre integração Java com impressoras Elgin via DLL. O menu
 comandos essenciais da impressora.
 
 ---------Autores do Projeto------
-Joyce Gomes da Silva
-Paulo Ricardo Monteiro Batista
-Ana Luiza de Oliveira
-Henrique Sousa Barbosa
-Kauê Lino Borges
+Joyce Gomes da Silva, Paulo Ricardo Monteiro Batista, Ana Luiza de Oliveira, Henrique Sousa Barbosa e Kauê Lino Borges
